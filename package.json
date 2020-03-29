@@ -1,0 +1,21 @@
+{
+  "name": "aos4n-web-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "tsc": "tsc",
+    "tscw": "tsc -w",
+    "start": "node bin/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos4n-core": "github:aos4n/core",
+    "aos4n-web": "github:aos4n/web"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.3",
+    "typescript": "^3.8.3"
+  }
+}
