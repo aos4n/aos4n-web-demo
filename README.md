@@ -1,9 +1,9 @@
 # 介绍
 aos4n的演示项目
 
-aos4n-core: [https://github.com/aos4n/core](https://github.com/aos4n/core)
+参考：aos4n-core: [https://github.com/aos4n/core](https://github.com/aos4n/core)
 
-aos4n-web: [https://github.com/aos4n/web](https://github.com/aos4n/web)
+参考：aos4n-web: [https://github.com/aos4n/web](https://github.com/aos4n/web)
 # 安装
 ```bash
 git clone https://github.com/aos4n/aos4n-web-demo.git

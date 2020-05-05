@@ -3,8 +3,8 @@ import { NotNull } from 'aos4n-web';
 
 export class IndexIM {
     @NotNull()
-    @Typed()
+    @Typed
     id: number
-    @Typed()
+    @Typed
     name: string
 }
